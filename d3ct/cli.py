@@ -11,7 +11,7 @@ import urllib.parse
 import click
 import yaml
 
-from _version import get_versions
+from d3ct._version import get_versions
 from d3ct.plugins.log_loggers import PLUGIN_LOG
 from d3ct.plugins.log_utils import add_loggers
 from d3ct.utils.utils import locate
