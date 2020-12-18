@@ -1,0 +1,2 @@
+include versioneer.py
+include d3ct/_version.py

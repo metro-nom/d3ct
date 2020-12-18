@@ -1,0 +1,15 @@
+Click
+PyLD
+PyYAML
+jinja2
+networkx
+cockroachdb
+psycopg2-binary
+SQLAlchemy
+requests
+requests_cache
+pytz
+pyvmomi
+ttl-cache
+pint
+python-ldap
